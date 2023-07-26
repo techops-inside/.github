@@ -1,4 +1,4 @@
-<p align="center"><img src="/images/techopsinside.png" width="50%"></p>
+<p align="center"><img src="/profile/images/techopsinside.png" width="50%"></p>
 
 ## Documentação 
 TechOps Inside é uma startup inovadora de serviços virtuais, dedicada a simplificar a vida de nossos clientes por meio de soluções abrangentes e personalizadas. Nossa missão é fornecer um conjunto completo de serviços que abrange desde a criação de identidade visual até o desenvolvimento de sites e aplicativos, além de oferecer o suporte técnico essencial para garantir a excelência em todos os projetos.
