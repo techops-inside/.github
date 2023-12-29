@@ -1,6 +1,8 @@
 <p align="center"><img src="/profile/images/techopsinside.png" width="50%"></p>
 
 ## About Us
+TechOps Inside is an innovative virtual services startup dedicated to simplifying our customers' lives through comprehensive, personalized solutions. Our mission is to provide a complete set of services that range from creating visual identity to website and application development, in addition to offering essential technical support to ensure excellence in all projects.
+
 We have a highly specialized and committed team, determined to provide specialized results that strengthen our clients' presence in the market and drive their growth. Our goal is to ensure that your needs are met efficiently and that your expectations are always exceeded.
 
 At TechOps Inside, visual identity creation is carried out strategically, developing logos, cores, typography and graphic elements that represent the unique essence and personality of each brand. We work closely with our clients, ensuring that every detail is agreed before final implementation, resulting in a striking and distinctive visual identity.
@@ -35,5 +37,3 @@ Nosso suporte técnico é uma parte fundamental de nossos serviços, garantindo 
 Nossos Termos e Condições foram desenvolvidos com transparência, valorizando a confidencialidade das informações compartilhadas entre as partes. Buscamos proporcionar uma experiência completa e satisfatória aos nossos clientes, oferecendo serviços de alta qualidade que impulsionem o sucesso de seus negócios no mundo virtual.
 
 Na TechOps Inside, a paixão pelo que fazemos nos motiva a buscar constantemente a excelência em cada projeto, sempre em busca de inovação, criatividade e resultados excepcionais. Seja bem-vindo à TechOps Inside, onde seu sucesso é nossa prioridade! 
-
-TechOps Inside is an innovative virtual services startup dedicated to simplifying our customers' lives through comprehensive, personalized solutions. Our mission is to provide a complete set of services that range from creating visual identity to website and application development, in addition to offering essential technical support to ensure excellence in all projects.
